@@ -29,3 +29,32 @@ h1 {
 .blu {
   background-color: blue;
 }
+
+.quadrato-2 {
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 56px;
+}
+
+.container-2 {
+  display: flex;
+  justify-content: center;
+}
+
+.conteiner-max {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+body {
+  overflow: hidden;
+}
