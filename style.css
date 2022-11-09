@@ -8,13 +8,18 @@ h1 {
 }
 
 .quadrato {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 150px;
   height: 150px;
   margin: 10px;
+  color: white;
+  font-size: 4rem;
 }
 
 .giallo {
-  background-color: yellow;
+  background-color: green;
 }
 
 .rosso {
