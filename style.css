@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(35, 19, 95);
+  width: 350px;
+  height: 450px;
+}
+
+.container-1 {
+  width: 355px;
+  height: 60px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 35px;
+}
+
+.menu-list {
+  background-color: white;
+  width: 350px;
+  height: 470px;
+}
+
+.sublist {
+  font-size: 20px;
+}
+
+.my-button {
+  display: flex;
+  justify-content: end;
+}
